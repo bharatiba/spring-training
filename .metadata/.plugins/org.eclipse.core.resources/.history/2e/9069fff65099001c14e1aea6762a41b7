@@ -1,0 +1,22 @@
+<html>
+<body>
+<h2>Hello World!</h2>
+<div>
+
+<h2>Spring Web MVC Application</h2>
+<hr color="blue">
+<br><br>
+<a href="Hello">Home Page</a>
+<br><br>
+
+<br>
+<a href="myHome>My home</a>
+<br>
+
+
+
+
+
+</div>
+</body>
+</html>

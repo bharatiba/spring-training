@@ -1,0 +1,45 @@
+package com.bel.training.springcore;
+
+public class BookApp {
+
+	private int bookId;
+	private String bookName;
+	private Long price;
+	
+	public BookApp() {
+		// TODO Auto-generated constructor stub
+		System.out.println("DI using constructor injection");
+	}
+
+	public BookApp(int bookId, String bookName, Long price) {
+		super();
+		this.bookId = bookId;
+		this.bookName = bookName;
+		this.price = price;
+	}
+	
+	
+	
+	public BookApp(int bookId) {
+		super();
+		this.bookId = bookId;
+	}
+	
+
+	public BookApp(String bookName) {
+		super();
+		this.bookName = bookName;
+	}
+	
+
+	public BookApp(Long price) {
+		super();
+		this.price = price;
+	}
+
+	void display() {
+		System.out.println("Book details -------------------------------");
+		System.out.println(this.bookId + " " + this.bookName + " " + this.price);
+	}
+	
+}

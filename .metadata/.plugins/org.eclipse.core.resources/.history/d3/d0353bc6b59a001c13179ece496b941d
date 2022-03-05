@@ -1,0 +1,6 @@
+package com.bel.training.ims.rest;
+
+@RestController
+public class LoginRestController {
+
+}

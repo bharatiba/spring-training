@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=inventory/C:\/Users\/BEL\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/2.6.2\/spring-data-commons-2.6.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.archivename=/spring-data-commons-2.6.2.jar=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/2.6.2=/=/maven.scope=/compile=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1646203486062"/>
+    <typeInfo handle="=inventory/C:\/Users\/BEL\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/2.6.2\/spring-data-jpa-2.6.2.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.archivename=/spring-data-jpa-2.6.2.jar=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/2.6.2=/=/maven.scope=/compile=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1646203435722"/>
+</typeInfoHistroy>

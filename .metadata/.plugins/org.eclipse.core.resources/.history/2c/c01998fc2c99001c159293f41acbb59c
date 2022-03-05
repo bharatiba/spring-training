@@ -1,0 +1,9 @@
+package com.bel.training.springcore;
+
+public class Employee {
+
+	private int id;
+	private String name, city;
+	
+	
+}

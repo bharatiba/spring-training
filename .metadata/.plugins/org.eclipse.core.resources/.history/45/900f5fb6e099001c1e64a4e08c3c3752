@@ -1,0 +1,29 @@
+package com.bel.training.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.bel.training.model.Employee;
+
+@Controller
+public class EmployeeController {
+	
+		// model is used to pass data/object to view
+		@RequestMapping("/employeeform")
+		public String showFormForAdd(Model theModel) {
+			Employee theEmp = new Employee();
+			theModel.addAttribute("emp", theEmp);
+			return "registEmp"; //View with emp obj
+		}
+		
+		
+	@RequestMapping("/addEmployee")
+	public String showId() {
+		
+		return "viewEmployee"; //View with emp obj
+	}
+	
+	
+	
+}

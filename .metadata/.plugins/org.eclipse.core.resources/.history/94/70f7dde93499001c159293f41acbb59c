@@ -1,0 +1,9 @@
+package com.bel.training.springcore;
+
+public class Book {
+
+	private int bookId;
+	private String bookName;
+	private Long price;
+	
+}

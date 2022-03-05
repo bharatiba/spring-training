@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+
+
+	<bean id="a1" class="com.bel.training.springcore.Address">
+		<constructor-arg value="BLR"></constructor-arg>
+		<constructor-arg value="KA"></constructor-arg>
+		<constructor-arg value="IN"></constructor-arg>
+		<constructor-arg value="590000" type ="Long"></constructor-arg>
+	</bean>
+	
+	<bean id="cd1" class="com.bel.training.springcore.Candidate">
+		<constructor-arg value="101" type="int"></constructor-arg>
+		<constructor-arg value="Bala G"></constructor-arg>
+		<constructor-arg>
+			<ref bean="a1"></ref>
+		</constructor-arg>
+	</bean>
+
+
+
+</beans>

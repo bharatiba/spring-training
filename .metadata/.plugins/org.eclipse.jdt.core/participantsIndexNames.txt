@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+E:\Spring Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4033341513.index
+\spring-web\src\main\java
+E:\Spring Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2134673911.index
+\spring-core\src\main\java
+E:\Spring Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\358770902.index
+\inventory\src\main\java
+E:\Spring Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1050306917.index
+\spring-web\src\main\java
+E:\Spring Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\864082635.index
+\spring-web\src\main\resources

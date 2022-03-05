@@ -1,0 +1,10 @@
+127.0.0.1 - - [03/Mar/2022:09:12:42 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [03/Mar/2022:09:13:10 +0530] "GET /spring-web/index.jsp HTTP/1.1" 200 391
+127.0.0.1 - - [03/Mar/2022:09:13:11 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+127.0.0.1 - - [03/Mar/2022:09:13:17 +0530] "GET /spring-web/employeeform HTTP/1.1" 404 1047
+127.0.0.1 - - [03/Mar/2022:09:13:24 +0530] "GET /spring-web/signin HTTP/1.1" 200 300
+127.0.0.1 - - [03/Mar/2022:09:13:33 +0530] "GET /spring-web/bye?name=Bharati&pass=1234&submit=Submit+Query HTTP/1.1" 200 508
+127.0.0.1 - - [03/Mar/2022:09:13:43 +0530] "GET /spring-web/bookingForm HTTP/1.1" 200 1785
+127.0.0.1 - - [03/Mar/2022:09:13:43 +0530] "GET /spring-web/bookingForm HTTP/1.1" 200 1785
+127.0.0.1 - - [03/Mar/2022:09:13:55 +0530] "POST /spring-web/submitForm HTTP/1.1" 200 437
+127.0.0.1 - - [03/Mar/2022:15:19:25 +0530] "GET / HTTP/1.1" 404 1074

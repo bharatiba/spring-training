@@ -1,0 +1,6 @@
+package com.bel.training.ims.model;
+
+
+public class Address {
+
+}
